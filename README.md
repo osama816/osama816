@@ -20,6 +20,7 @@
   <a href="https://www.linkedin.com/in/osama-elgendy-416329331/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_apps" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walha-med-ali" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/osama-elgendy-416329331/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_apps" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m3dnux" height="30" width="40" /></a>
   <a href="https://www.instagram.com/elgendy4866?igsh=aXhyc2xnNXVjcmRn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="walha_med.ali" height="30" width="40" /></a>
+  <a href="https://wa.me/201202665670" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="walha_med.ali" height="30" width="40" /></a>
 
 </p>
 
