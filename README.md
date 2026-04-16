@@ -1,6 +1,5 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi there, I'm Osama Elgendy 👋</h1>
 <h3 align="center">Backend Developer specializing in Laravel Ecosystem</h3>
 
 <p align="center">
@@ -113,8 +112,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=osama816&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" width="100%" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osama816&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4" alt="Trophies" width="100%" />
-</div>
